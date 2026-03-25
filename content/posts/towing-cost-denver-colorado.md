@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Denver, Colorado"
-date: 2024-01-01
+date: 2026-02-22T09:02:00+00:00
 description: "What does towing actually cost in Denver? Expect $85-$135 for a local tow. Here's what affects the price and how to avoid overpaying."
 tags: ["Denver", "Colorado", "towing cost"]
 slug: "towing-cost-denver-colorado"

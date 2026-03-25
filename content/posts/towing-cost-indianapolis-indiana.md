@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Indianapolis, Indiana"
-date: 2024-01-19
+date: 2026-03-12T08:31:00+00:00
 description: "Towing in Indianapolis costs $75-$120 base plus $3-$4.25 per mile. A central hub city with reasonable rates and a large competitive towing market."
 tags: ["Indianapolis", "Indiana", "towing cost"]
 slug: "towing-cost-indianapolis-indiana"

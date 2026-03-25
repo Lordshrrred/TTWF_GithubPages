@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Dallas, Texas"
-date: 2024-01-07
+date: 2026-02-28T08:38:00+00:00
 description: "Towing in Dallas costs $75-$125 base plus $3-$4.50 per mile. Big highway network and sprawling metro mean distance is the main cost driver."
 tags: ["Dallas", "Texas", "towing cost"]
 slug: "towing-cost-dallas-texas"

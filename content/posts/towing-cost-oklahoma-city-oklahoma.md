@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Oklahoma City, Oklahoma"
-date: 2024-01-28
+date: 2026-03-21T11:05:00+00:00
 description: "Towing in Oklahoma City costs $72-$118 base plus $3-$4.25 per mile. Below average rates in a flat, spread-out city with active severe weather seasons."
 tags: ["Oklahoma City", "Oklahoma", "towing cost"]
 slug: "towing-cost-oklahoma-city-oklahoma"

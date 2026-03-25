@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Memphis, Tennessee"
-date: 2024-01-23
+date: 2026-03-16T11:17:00+00:00
 description: "Towing in Memphis costs $70-$115 base plus $3-$4.25 per mile. Below the national average, but watch out for impound complications in certain parts of the city."
 tags: ["Memphis", "Tennessee", "towing cost"]
 slug: "towing-cost-memphis-tennessee"

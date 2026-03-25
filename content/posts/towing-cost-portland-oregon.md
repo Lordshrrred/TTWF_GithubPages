@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Portland, Oregon"
-date: 2024-01-15
+date: 2026-03-08T08:52:00+00:00
 description: "Towing in Portland runs $90-$145 base plus $4-$5.25 per mile. High labor costs, bridge complexity, and steep hills make Portland an above-average towing market."
 tags: ["Portland", "Oregon", "towing cost"]
 slug: "towing-cost-portland-oregon"

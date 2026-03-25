@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Jacksonville, Florida"
-date: 2024-01-22
+date: 2026-03-15T08:44:00+00:00
 description: "Towing in Jacksonville runs $75-$120 base plus $3-$4.50 per mile. The largest city by area in the contiguous US means distance is the primary cost factor."
 tags: ["Jacksonville", "Florida", "towing cost"]
 slug: "towing-cost-jacksonville-florida"

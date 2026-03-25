@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Miami, Florida"
-date: 2024-01-08
+date: 2026-03-01T11:09:00+00:00
 description: "Towing in Miami runs $90-$145 base plus $4-$5.50 per mile. High cost of living, tourist traffic, and intense competition create unpredictable pricing."
 tags: ["Miami", "Florida", "towing cost"]
 slug: "towing-cost-miami-florida"

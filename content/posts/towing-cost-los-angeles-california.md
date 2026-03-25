@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Los Angeles, California"
-date: 2024-01-09
+date: 2026-03-02T09:21:00+00:00
 description: "Towing in LA costs $100-$165 base plus $4.50-$6 per mile. California regulations and high labor costs make LA one of the most expensive cities for towing."
 tags: ["Los Angeles", "California", "towing cost"]
 slug: "towing-cost-los-angeles-california"

@@ -1,6 +1,6 @@
 ---
 title: "50-Mile Tow Truck Cost from City: Complete Pricing Guide"
-date: 2026-03-25
+date: 2026-03-24T09:14:00+00:00
 description: "Planning a 50-mile tow from the city? Budget $200-400 for base fees, mileage rates, and rural charges. Get detailed cost breakdowns here."
 tags: ["tow truck cost", "long distance towing", "rural towing", "breakdown pricing", "roadside assistance"]
 slug: "tow-truck-price-50-miles-from-city-guide"

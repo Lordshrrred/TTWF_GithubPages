@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Baltimore, Maryland"
-date: 2024-01-24
+date: 2026-03-17T09:29:00+00:00
 description: "Towing in Baltimore costs $90-$145 base plus $4-$5.25 per mile. Northeast costs, complex urban geography, and heavy I-95 corridor traffic drive rates up."
 tags: ["Baltimore", "Maryland", "towing cost"]
 slug: "towing-cost-baltimore-maryland"

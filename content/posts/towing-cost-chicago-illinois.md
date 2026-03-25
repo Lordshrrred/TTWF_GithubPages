@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Chicago, Illinois"
-date: 2024-01-05
+date: 2026-02-26T09:48:00+00:00
 description: "Towing in Chicago costs $95-$150 base plus $4-$5.50 per mile. City permits, winter conditions, and heavy congestion all push rates higher."
 tags: ["Chicago", "Illinois", "towing cost"]
 slug: "towing-cost-chicago-illinois"

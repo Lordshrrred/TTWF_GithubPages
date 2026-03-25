@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Austin, Texas"
-date: 2024-01-13
+date: 2026-03-06T10:37:00+00:00
 description: "Towing in Austin costs $80-$130 base plus $3.50-$4.75 per mile. A tech boom driving up operating costs means Austin rates are creeping above the Texas average."
 tags: ["Austin", "Texas", "towing cost"]
 slug: "towing-cost-austin-texas"

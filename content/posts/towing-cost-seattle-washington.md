@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Seattle, Washington"
-date: 2024-01-06
+date: 2026-02-27T10:14:00+00:00
 description: "Towing in Seattle runs $95-$150 base plus $4-$5.50 per mile. Hills, rain, and high labor costs push Seattle rates above the national average."
 tags: ["Seattle", "Washington", "towing cost"]
 slug: "towing-cost-seattle-washington"

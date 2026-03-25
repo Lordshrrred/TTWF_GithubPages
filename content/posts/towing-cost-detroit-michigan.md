@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Detroit, Michigan"
-date: 2024-01-17
+date: 2026-03-10T10:18:00+00:00
 description: "Towing in Detroit costs $80-$130 base plus $3.50-$4.75 per mile. A complicated impound system and winter conditions make knowing the rules essential."
 tags: ["Detroit", "Michigan", "towing cost"]
 slug: "towing-cost-detroit-michigan"

@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Atlanta, Georgia"
-date: 2024-01-04
+date: 2026-02-25T11:33:00+00:00
 description: "Towing in Atlanta runs $85-$140 base plus $3.50-$5 per mile. Traffic and highway complexity drive prices up. Know what to expect."
 tags: ["Atlanta", "Georgia", "towing cost"]
 slug: "towing-cost-atlanta-georgia"

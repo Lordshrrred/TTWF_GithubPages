@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in San Diego, California"
-date: 2024-01-21
+date: 2026-03-14T10:03:00+00:00
 description: "Towing in San Diego costs $95-$155 base plus $4.25-$5.75 per mile. California labor costs and a spread-out coastal metro push rates above average."
 tags: ["San Diego", "California", "towing cost"]
 slug: "towing-cost-san-diego-california"

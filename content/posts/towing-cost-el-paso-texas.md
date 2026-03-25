@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in El Paso, Texas"
-date: 2024-01-27
+date: 2026-03-20T09:38:00+00:00
 description: "Towing in El Paso costs $70-$110 base plus $2.75-$4 per mile. Border city economics and a smaller competitive market keep El Paso among the most affordable large cities for towing."
 tags: ["El Paso", "Texas", "towing cost"]
 slug: "towing-cost-el-paso-texas"

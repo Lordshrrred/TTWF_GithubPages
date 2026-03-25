@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Boston, Massachusetts"
-date: 2024-01-25
+date: 2026-03-18T10:51:00+00:00
 description: "Towing in Boston costs $100-$165 base plus $4.50-$6 per mile. One of the priciest cities in the country for towing, with complex streets and high labor costs."
 tags: ["Boston", "Massachusetts", "towing cost"]
 slug: "towing-cost-boston-massachusetts"

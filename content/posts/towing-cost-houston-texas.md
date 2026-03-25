@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Houston, Texas"
-date: 2024-01-02
+date: 2026-02-23T10:41:00+00:00
 description: "Towing in Houston runs $75-$125 base plus $3-$4.50 per mile. Here's the real price breakdown and what to watch out for."
 tags: ["Houston", "Texas", "towing cost"]
 slug: "towing-cost-houston-texas"

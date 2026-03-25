@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in New York City"
-date: 2024-01-10
+date: 2026-03-03T10:55:00+00:00
 description: "Towing in NYC costs $125-$200 base plus $5-$7 per mile. NYC has the highest towing rates in the country. Here's what to expect and how to fight back."
 tags: ["New York City", "New York", "towing cost"]
 slug: "towing-cost-new-york-city"
