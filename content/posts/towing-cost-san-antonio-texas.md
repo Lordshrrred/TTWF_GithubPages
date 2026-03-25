@@ -51,4 +51,4 @@ San Antonio city impound rates run $120 to $175 for the initial tow plus $20 to 
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in San Antonio Texas, read our full guide: [Towing Cost in San Antonio Texas](https://towwiththeflow.com/towing-cost-san-antonio-texas/)

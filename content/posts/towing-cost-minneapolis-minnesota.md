@@ -52,4 +52,4 @@ MnDOT operates a highway service patrol program on Twin Cities metro freeways du
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Minneapolis Minnesota, read our full guide: [Towing Cost in Minneapolis Minnesota](https://towwiththeflow.com/towing-cost-minneapolis-minnesota/)

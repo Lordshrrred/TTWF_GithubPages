@@ -51,4 +51,4 @@ El Paso city impound fees run $100 to $150 for the initial tow plus $15 to $25 p
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in El Paso Texas, read our full guide: [Towing Cost in El Paso Texas](https://towwiththeflow.com/towing-cost-el-paso-texas/)

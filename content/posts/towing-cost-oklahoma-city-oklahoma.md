@@ -49,4 +49,4 @@ Oklahoma City impound fees run $105 to $155 for the initial tow plus $15 to $25 
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Oklahoma City Oklahoma, read our full guide: [Towing Cost in Oklahoma City Oklahoma](https://towwiththeflow.com/towing-cost-oklahoma-city-oklahoma/)

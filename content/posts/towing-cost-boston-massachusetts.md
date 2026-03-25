@@ -52,4 +52,4 @@ Impound fees run $130 to $200 for the tow plus $25 to $40 per day in storage. Ca
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Boston Massachusetts, read our full guide: [Towing Cost in Boston Massachusetts](https://towwiththeflow.com/towing-cost-boston-massachusetts/)

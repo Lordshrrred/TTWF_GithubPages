@@ -51,4 +51,4 @@ For outer borough and suburban Jersey/Connecticut situations near the city, rate
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in New York City, read our full guide: [Towing Cost in New York City](https://towwiththeflow.com/towing-cost-new-york-city/)

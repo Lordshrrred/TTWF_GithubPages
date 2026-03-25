@@ -51,4 +51,4 @@ LA city impound lots charge $226.50 for the first 72 hours, then additional dail
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Los Angeles California, read our full guide: [Towing Cost in Los Angeles California](https://towwiththeflow.com/towing-cost-los-angeles-california/)

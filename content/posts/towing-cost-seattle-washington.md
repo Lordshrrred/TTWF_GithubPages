@@ -51,4 +51,4 @@ If your vehicle is towed to Seattle's impound lot, expect to pay $150 to $200 fo
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Seattle Washington, read our full guide: [Towing Cost in Seattle Washington](https://towwiththeflow.com/towing-cost-seattle-washington/)

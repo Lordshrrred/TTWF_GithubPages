@@ -51,4 +51,4 @@ City of Austin impound fees run $125 to $180 for the initial tow plus $20 to $35
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Austin Texas, read our full guide: [Towing Cost in Austin Texas](https://towwiththeflow.com/towing-cost-austin-texas/)

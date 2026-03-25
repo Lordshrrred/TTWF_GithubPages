@@ -51,4 +51,4 @@ Parking enforcement tows in Denver (called by the city or a lot) are a different
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Denver Colorado, read our full guide: [Towing Cost in Denver Colorado](https://towwiththeflow.com/towing-cost-denver-colorado/)

@@ -51,4 +51,4 @@ Impound fees in Phoenix typically run $150 to $225 for the initial tow, plus $25
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Phoenix Arizona, read our full guide: [Towing Cost in Phoenix Arizona](https://towwiththeflow.com/towing-cost-phoenix-arizona/)

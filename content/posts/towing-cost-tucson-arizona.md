@@ -51,4 +51,4 @@ Pima County impound fees run $105 to $155 for the initial tow plus $15 to $25 pe
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Tucson Arizona, read our full guide: [Towing Cost in Tucson Arizona](https://towwiththeflow.com/towing-cost-tucson-arizona/)

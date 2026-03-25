@@ -51,4 +51,4 @@ Bernalillo County impound fees run $100 to $145 for the initial tow plus $15 to 
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Albuquerque New Mexico, read our full guide: [Towing Cost in Albuquerque New Mexico](https://towwiththeflow.com/towing-cost-albuquerque-new-mexico/)

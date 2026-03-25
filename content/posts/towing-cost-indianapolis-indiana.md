@@ -51,4 +51,4 @@ Indianapolis impound fees for city-initiated tows run $115 to $165 plus $20 to $
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Indianapolis Indiana, read our full guide: [Towing Cost in Indianapolis Indiana](https://towwiththeflow.com/towing-cost-indianapolis-indiana/)

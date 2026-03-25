@@ -51,4 +51,4 @@ Storage fees at Dallas-area impound lots run $25 to $40 per day after the first 
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Dallas Texas, read our full guide: [Towing Cost in Dallas Texas](https://towwiththeflow.com/towing-cost-dallas-texas/)

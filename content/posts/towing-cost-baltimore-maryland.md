@@ -51,4 +51,4 @@ Baltimore City impound fees run $150 to $200 for the initial tow plus $30 to $45
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Baltimore Maryland, read our full guide: [Towing Cost in Baltimore Maryland](https://towwiththeflow.com/towing-cost-baltimore-maryland/)

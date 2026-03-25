@@ -51,4 +51,4 @@ If your vehicle ends up at a Miami impound lot, fees run $150 to $200 for the to
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Miami Florida, read our full guide: [Towing Cost in Miami Florida](https://towwiththeflow.com/towing-cost-miami-florida/)

@@ -51,4 +51,4 @@ Nashville impound lot fees run $115 to $170 for the initial tow plus $20 to $35 
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Nashville Tennessee, read our full guide: [Towing Cost in Nashville Tennessee](https://towwiththeflow.com/towing-cost-nashville-tennessee/)

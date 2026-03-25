@@ -49,4 +49,4 @@ Fort Worth city impound fees run $115 to $165 plus $20 to $30 per day in storage
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Fort Worth Texas, read our full guide: [Towing Cost in Fort Worth Texas](https://towwiththeflow.com/towing-cost-fort-worth-texas/)

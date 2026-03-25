@@ -49,4 +49,4 @@ Memphis impound fees run $110 to $165 for the initial tow plus $20 to $30 per da
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Memphis Tennessee, read our full guide: [Towing Cost in Memphis Tennessee](https://towwiththeflow.com/towing-cost-memphis-tennessee/)

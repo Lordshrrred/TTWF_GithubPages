@@ -51,4 +51,4 @@ Portland impound lot fees for city-initiated tows run $130 to $190 for the initi
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Portland Oregon, read our full guide: [Towing Cost in Portland Oregon](https://towwiththeflow.com/towing-cost-portland-oregon/)

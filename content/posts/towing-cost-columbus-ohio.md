@@ -51,4 +51,4 @@ Columbus impound fees run $110 to $165 for the initial tow plus $20 to $30 per d
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Columbus Ohio, read our full guide: [Towing Cost in Columbus Ohio](https://towwiththeflow.com/towing-cost-columbus-ohio/)

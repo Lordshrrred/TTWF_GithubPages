@@ -51,4 +51,4 @@ The Michigan Department of Transportation has incident response vehicles on metr
 
 ---
 
-Need more roadside emergency help? Visit [Tow With The Flow](https://towwiththeflow.com) for guides on what to do when your car breaks down.
+For towing costs in Detroit Michigan, read our full guide: [Towing Cost in Detroit Michigan](https://towwiththeflow.com/towing-cost-detroit-michigan/)
