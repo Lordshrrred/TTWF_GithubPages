@@ -1,0 +1,27 @@
+baseURL = "https://lordshrrred.github.io/TTWF_GithubPages/"
+languageCode = "en-us"
+title = "Towing Costs By City"
+theme = "towing"
+
+[params]
+  description = "Find out what towing actually costs near you."
+  tagline = "Find out what towing actually costs near you."
+  author = "Towing Costs By City"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2

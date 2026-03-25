@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1 style="font-size:1.6rem;font-weight:700;margin-bottom:1.5rem;">Latest Posts</h1>
+<ul class="post-list">
+  {{ range .Paginator.Pages }}
+  <li class="post-item">
+    <div class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+    <div class="post-meta">{{ .Date.Format "January 2, 2006" }}</div>
+    {{ if .Description }}<div class="post-desc">{{ .Description }}</div>{{ end }}
+  </li>
+  {{ end }}
+</ul>
+{{ template "_internal/pagination.html" . }}
+{{ end }}
