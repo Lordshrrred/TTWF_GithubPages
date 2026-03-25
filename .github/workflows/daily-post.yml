@@ -4,6 +4,16 @@ on:
   schedule:
     - cron: "10 10 * * *"  # 10:10am UTC daily
   workflow_dispatch:
+    inputs:
+      source_slug:
+        description: 'Slug of the TWTF post to create variation for'
+        required: false
+      source_url:
+        description: 'Full URL of the TWTF post'
+        required: false
+      source_title:
+        description: 'Title of the TWTF post'
+        required: false
 
 permissions:
   contents: write
@@ -24,12 +34,22 @@ jobs:
           python-version: "3.11"
 
       - name: Install Python dependencies
-        run: pip install anthropic python-dotenv
+        run: pip install anthropic python-dotenv requests
 
       - name: Generate post
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/generate_post.py
+          SOURCE_SLUG: ${{ inputs.source_slug }}
+          SOURCE_URL: ${{ inputs.source_url }}
+          SOURCE_TITLE: ${{ inputs.source_title }}
+        run: |
+          if [ -n "$SOURCE_SLUG" ]; then
+            echo "Variation triggered for: $SOURCE_SLUG"
+            python scripts/generate_variation.py
+          else
+            echo "No source slug — running regular daily post"
+            python scripts/generate_post.py
+          fi
 
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3
@@ -45,7 +65,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add content/posts/ scripts/keywords.txt
-          git diff --staged --quiet || git commit -m "chore: add daily towing cost post [skip ci]"
+          git diff --staged --quiet || git commit -m "chore: add daily post $(date +%Y-%m-%d) [skip ci]"
 
       - name: Push to main
         run: git push origin main
