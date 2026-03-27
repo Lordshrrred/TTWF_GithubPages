@@ -1,8 +1,9 @@
 name: Daily Post Generator
 
 on:
-  schedule:
-    - cron: "10 10 * * *"  # 10:10am UTC daily
+  # schedule disabled -- this workflow runs only when triggered by TowWithTheFlow main site
+  # schedule:
+  #   - cron: "10 10 * * *"  # 10:10am UTC daily
   workflow_dispatch:
     inputs:
       source_slug:
