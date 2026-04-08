@@ -4,6 +4,7 @@ date: "2026-03-02T10:22:00+00:00"
 description: "Learn safe methods to handle a frozen battery. Don't risk explosion by jumping a frozen cell. Step-by-step warming and charging instructions."
 tags: ["battery", "cold weather", "car breakdown", "jump start"]
 slug: "how-to-start-a-frozen-car-battery-guide"
+canonical: "https://towwiththeflow.com/how-to-start-a-frozen-car-battery/"
 ---
 
 > **Quick Answer:** Never attempt to jump-start a frozen battery due to explosion risk. Batteries freeze when discharge levels drop below 20% and temperatures hit 32°F or lower. Warning signs include case cracks or bulging. For undamaged batteries, warm indoors for several hours, then use slow charging methods before attempting ignition. Damaged cases require immediate replacement.

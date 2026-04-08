@@ -4,6 +4,7 @@ date: "2026-02-24T08:54:00+00:00"
 description: "Find out exactly how much time you have before your broken-down car gets towed. State laws vary from 24-72 hours - here's what you need to know."
 tags: ["car breakdown", "roadside", "abandoned vehicle", "towing laws"]
 slug: "how-long-can-a-car-sit-broken-down-on-roadside-guide"
+canonical: "https://towwiththeflow.com/how-long-can-a-car-sit-broken-down-on-roadside/"
 ---
 
 > **Quick Answer:** You typically have 24-72 hours before authorities can legally remove your broken-down vehicle from public roads. The timeframe varies by state and location type. Always notify police immediately when leaving your car to maximize your protection window.

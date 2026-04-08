@@ -4,6 +4,7 @@ date: "2026-02-10T09:51:00+00:00"
 description: "When your engine fires up but dies within seconds, here's how to diagnose the most common causes and get back on the road."
 tags: ["car breakdown", "engine", "starting problems", "fuel system"]
 slug: "car-starts-then-dies-immediately-causes-help"
+canonical: "https://towwiththeflow.com/car-starts-then-dies-immediately-causes/"
 ---
 
 > **Fast Fix:** When your vehicle cranks to life but immediately stalls out, you're typically dealing with fuel delivery issues, a problematic idle control system, or anti-theft activation. First, observe if your security light blinks after the stall - this alone can shut down the engine instantly. Otherwise, suspect a weakening fuel pump, blocked fuel filter, air leaks, or defective airflow sensor.

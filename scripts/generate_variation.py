@@ -42,7 +42,7 @@ def build_system_prompt(source_slug: str, source_url: str) -> str:
     backlink = (
         f"For the complete guide on this topic, visit "
         f"[Tow With The Flow]({source_url}) "
-        f"\u2014 real answers when your car breaks down."
+        f"- real answers when your car breaks down."
     )
     return (
         "Rewrite this car breakdown/roadside help article as a unique variation "
@@ -83,7 +83,7 @@ def generate_variation(
     backlink = (
         f"For the complete guide on this topic, visit "
         f"[Tow With The Flow]({source_url}) "
-        f"\u2014 real answers when your car breaks down."
+        f"- real answers when your car breaks down."
     )
 
     system = build_system_prompt(source_slug, source_url)
@@ -111,6 +111,10 @@ def generate_variation(
     # Guarantee the specific-post backlink is present
     if source_url not in content:
         content = content.rstrip() + f"\n\n{backlink}\n"
+
+    # Convert inherited local asset and post links to stable absolute URLs.
+    content = re.sub(r'\]\(/images/', '](https://towwiththeflow.com/images/', content)
+    content = re.sub(r'\]\(/posts/([^)/]+)/\)', r'](https://towwiththeflow.com/\1/)', content)
 
     # Enforce the target slug in frontmatter
     content = re.sub(

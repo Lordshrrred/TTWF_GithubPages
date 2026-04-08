@@ -4,6 +4,7 @@ date: "2026-02-05T07:30:00+00:00"
 description: "When your engine temperature spikes, continuing to drive risks catastrophic damage. Learn the immediate steps to protect your engine and wallet."
 tags: ["car overheating", "engine temperature", "car breakdown", "coolant", "towing"]
 slug: "car-overheated-can-i-drive-it-guide"
+canonical: "https://towwiththeflow.com/car-overheated-can-i-drive-it/"
 ---
 
 When your temperature gauge suddenly climbs into dangerous territory or steam starts billowing from under your hood, you're facing a critical decision that could save or destroy your engine. The answer is unambiguous: driving an overheated vehicle is never worth the risk.

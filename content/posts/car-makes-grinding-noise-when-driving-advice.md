@@ -4,6 +4,7 @@ date: "2026-02-02T12:16:00+00:00"
 description: "Grinding sounds while driving signal serious problems. Learn to identify brake pad wear, wheel bearing issues, and other causes before damage worsens."
 tags: ["grinding noise", "brake noise", "wheel bearing", "car breakdown", "drivetrain"]
 slug: "car-makes-grinding-noise-when-driving-advice"
+canonical: "https://towwiththeflow.com/car-makes-grinding-noise-when-driving/"
 ---
 
 > **Quick Answer:** A grinding sound from your vehicle indicates metal components scraping against each other where they shouldn't. Common culprits include brake pads worn to metal backing plates, deteriorating wheel bearings, or foreign objects lodged in brake assemblies. Brake-only grinding typically means pad replacement is overdue. Constant grinding regardless of brake use suggests wheel bearing problems. Both situations demand immediate attention as they compromise safety and worsen rapidly.

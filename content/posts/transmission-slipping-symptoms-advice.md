@@ -4,6 +4,7 @@ date: "2026-03-11T07:04:00+00:00"
 description: "Recognize critical transmission slipping warning signs including RPM surges, shifting delays, and burning odors. Act fast to avoid costly repairs."
 tags: ["transmission problems", "car symptoms", "automatic transmission", "vehicle maintenance", "transmission repair"]
 slug: "transmission-slipping-symptoms-advice"
+canonical: "https://towwiththeflow.com/transmission-slipping-symptoms/"
 ---
 
 > **Fast Facts:** When your transmission starts slipping, you'll experience engine revving without corresponding acceleration, hesitation when changing gears, jerky shifting patterns, acrid burning odors, and grinding sounds during gear changes. Pull over immediately and seek professional help to avoid complete transmission destruction.
@@ -22,7 +23,7 @@ slug: "transmission-slipping-symptoms-advice"
 
 6. **Schedule expert evaluation** - Contact transmission specialists rather than general auto shops. Quick action prevents catastrophic failure.
 
-![mechanic car repair](/images/transmission-slipping-symptoms/mid.jpg)
+![mechanic car repair](https://towwiththeflow.com/images/transmission-slipping-symptoms/mid.jpg)
 *Photo: Pexels*
 
 ## Expected Repair Expenses
@@ -35,7 +36,7 @@ slug: "transmission-slipping-symptoms-advice"
 
 Quick intervention prevents expensive disasters. Continuing to drive with slipping symptoms typically converts manageable $500 fixes into $4,000 overhauls.
 
-![tow truck road](/images/transmission-slipping-symptoms/bottom.jpg)
+![tow truck road](https://towwiththeflow.com/images/transmission-slipping-symptoms/bottom.jpg)
 *Photo: Pexels*
 
 ## Safety Considerations

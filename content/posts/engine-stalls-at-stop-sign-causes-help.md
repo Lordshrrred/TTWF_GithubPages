@@ -4,6 +4,7 @@ date: "2026-02-22T07:47:00+00:00"
 description: "When your car dies every time you come to a stop, these are the likely culprits. Find out what's wrong and how to get it fixed safely."
 tags: ["engine stalls", "stall at stop sign", "idle problems", "car breakdown", "fuel system"]
 slug: "engine-stalls-at-stop-sign-causes-help"
+canonical: "https://towwiththeflow.com/engine-stalls-at-stop-sign-causes/"
 ---
 
 > **Bottom Line:** A car that dies when you brake for stop signs or sit at traffic lights typically has issues with the throttle body, idle air control system, mass airflow sensor, or vacuum leaks. Fuel delivery problems can also cause this frustrating issue. While often still drivable to a repair shop, this problem creates safety risks and needs prompt attention.

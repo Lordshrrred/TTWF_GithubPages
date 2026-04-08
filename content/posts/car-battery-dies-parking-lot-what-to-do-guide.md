@@ -4,6 +4,7 @@ date: "2026-01-30T11:02:00+00:00"
 description: "Stuck with a dead battery in a parking lot? Follow these proven steps to jump start your car or get professional help safely."
 tags: ["dead battery", "jump start", "parking lot", "roadside emergency", "car trouble"]
 slug: "car-battery-dies-parking-lot-what-to-do-guide"
+canonical: "https://towwiththeflow.com/car-battery-dies-parking-lot-what-to-do/"
 ---
 
 > **Quick Solution:** Activate hazard lights first, attempt a jump start using jumper cables and another vehicle, or contact roadside assistance. Failed jump attempts usually indicate battery replacement is needed. While most dead batteries respond to jumping temporarily, repeated failures signal replacement time.

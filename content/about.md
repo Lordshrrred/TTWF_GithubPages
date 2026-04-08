@@ -1,6 +1,6 @@
 ---
 title: "About Towing Costs By City"
-description: "About this site -- real towing cost information for drivers across the US."
+description: "Learn what Towing Costs By City covers, how the guides are written, and how the site relates to Tow With The Flow."
 ---
 
 ## About Towing Costs By City
@@ -19,4 +19,15 @@ Every post covers:
 
 We update this site regularly as towing rates shift with local cost of living.
 
-For more comprehensive guidance on what to do when your car breaks down -- including how to handle accidents, find a reliable mechanic, and navigate roadside emergencies -- visit [Tow With The Flow](https://towwiththeflow.com).
+## What makes this site useful
+
+- city-by-city towing cost guides
+- local pricing context and common surcharges
+- practical tips for avoiding overcharges
+- clear language for non-mechanics
+
+## Relationship to Tow With The Flow
+
+Towing Costs By City is part of the broader Tow With The Flow publishing network. This site focuses on pricing and city-specific towing cost questions, while [Tow With The Flow](https://towwiththeflow.com) covers broader roadside help, safety, and breakdown guidance.
+
+If you need more complete emergency guidance beyond pricing, visit [Tow With The Flow](https://towwiththeflow.com).

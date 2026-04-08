@@ -4,6 +4,7 @@ date: "2026-02-16T11:19:00+00:00"
 description: "When your check engine light blinks then stops, it signals serious engine trouble. Learn what to do immediately to avoid costly damage."
 tags: ["check engine light", "engine", "warning lights", "misfire"]
 slug: "check-engine-light-flashing-then-stops-help"
+canonical: "https://towwiththeflow.com/check-engine-light-flashing-then-stops/"
 ---
 
 > **Emergency Response:** When your check engine light blinks rapidly, your engine is misfiring and pumping unburned fuel into the catalytic converter. This can destroy the converter in minutes. If the blinking stops and becomes steady or disappears, the misfire has temporarily ceased, but the root cause remains. Stop immediately when blinking occurs, then get diagnostics before continuing.

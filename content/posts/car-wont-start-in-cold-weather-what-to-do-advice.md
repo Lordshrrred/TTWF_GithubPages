@@ -4,6 +4,7 @@ date: "2026-02-15T11:12:00+00:00"
 description: "When freezing temperatures leave you stranded, these proven troubleshooting steps will get your engine running. Quick fixes for cold weather breakdowns."
 tags: ["car breakdown", "cold weather", "battery", "starting problems"]
 slug: "car-wont-start-in-cold-weather-what-to-do-advice"
+canonical: "https://towwiththeflow.com/car-wont-start-in-cold-weather-what-to-do/"
 ---
 
 > **Fast Fix:** Winter temperatures wreak havoc on automotive systems, with batteries taking the biggest hit. When temperatures drop, battery power plummets and engine oil becomes sluggish. Most cold-weather starting failures trace back to electrical issues, particularly weak batteries or corroded connections.

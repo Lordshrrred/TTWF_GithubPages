@@ -4,6 +4,7 @@ date: "2026-01-23T09:27:00+00:00"
 description: "When headlights turn on but your engine won't crank, it's not a fully dead battery. Learn the real cause and how to fix it quickly."
 tags: ["dead battery", "car wont start", "lights turn on", "starter", "car breakdown"]
 slug: "battery-dead-but-lights-turn-on-help"
+canonical: "https://towwiththeflow.com/battery-dead-but-lights-turn-on/"
 ---
 
 > **The Real Issue:** When your dashboard lights up and headlights shine bright but the engine refuses to turn over, you're dealing with a partially drained battery rather than a completely dead one. The battery retains enough power for low-draw accessories but lacks the substantial current needed to engage the starter motor. Jump starting typically resolves this, though other culprits like corroded connections or starter failure remain possibilities.

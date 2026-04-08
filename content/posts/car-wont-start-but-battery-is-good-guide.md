@@ -4,6 +4,7 @@ date: "2026-02-12T10:58:00+00:00"
 description: "When your battery checks out fine but the engine won't turn over, these diagnostic steps will help identify the real problem quickly."
 tags: ["car wont start", "battery", "starter motor", "alternator", "diagnosis"]
 slug: "car-wont-start-but-battery-is-good-guide"
+canonical: "https://towwiththeflow.com/car-wont-start-but-battery-is-good/"
 ---
 
 > **Fast Fix:** When your battery passes testing but the engine refuses to start, you're dealing with a different component failure. The starter motor, alternator, fuel delivery system, or ignition components are typically at fault. The sounds your car makes during startup attempts provide crucial diagnostic clues.

@@ -2,11 +2,16 @@ baseURL = "https://lordshrrred.github.io/TWTF_Feeder/"
 languageCode = "en-us"
 title = "Towing Costs By City"
 theme = "towing"
+enableRobotsTXT = true
 
 [params]
   description = "Find out what towing actually costs near you."
   tagline = "Find out what towing actually costs near you."
   author = "Towing Costs By City"
+  siteName = "Towing Costs By City"
+  siteUrl = "https://lordshrrred.github.io/TWTF_Feeder/"
+  brandParent = "Tow With The Flow"
+  brandParentUrl = "https://towwiththeflow.com/"
 
 [markup]
   [markup.goldmark]
@@ -25,3 +30,15 @@ theme = "towing"
     name = "About"
     url = "/about/"
     weight = 2
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+  [[menu.main]]
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 4
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5

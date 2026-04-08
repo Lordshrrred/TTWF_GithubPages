@@ -4,6 +4,7 @@ date: "2026-02-04T13:23:00+00:00"
 description: "Hearing strange sounds when you turn? Discover what different steering noises mean and get fast fixes for common problems."
 tags: ["steering problems", "car noise", "power steering", "CV joints", "wheel bearings"]
 slug: "car-making-noise-when-turning-steering-wheel-help"
+canonical: "https://towwiththeflow.com/car-making-noise-when-turning-steering-wheel/"
 ---
 
 > **Bottom Line:** Strange sounds from your steering system typically indicate issues with power steering components, CV joints, or wheel bearings. Metal grinding sounds require immediate attention. Other noises can usually wait for short trips but shouldn't be ignored.
@@ -35,7 +36,7 @@ slug: "car-making-noise-when-turning-steering-wheel-help"
    - Grinding sounds intensify
    - Steering wheel shakes excessively
 
-![car wheel brake inspection](/images/car-making-noise-when-turning-steering-wheel/mid.jpg)
+![car wheel brake inspection](https://towwiththeflow.com/images/car-making-noise-when-turning-steering-wheel/mid.jpg)
 *Photo: Pexels*
 
 ## Repair Cost Estimates
@@ -47,7 +48,7 @@ slug: "car-making-noise-when-turning-steering-wheel-help"
 - Individual wheel bearing service: $150-400
 - Power steering belt installation: $50-120
 
-![auto mechanic shop](/images/car-making-noise-when-turning-steering-wheel/bottom.jpg)
+![auto mechanic shop](https://towwiththeflow.com/images/car-making-noise-when-turning-steering-wheel/bottom.jpg)
 *Photo: Pexels*
 
 ## Safety Considerations

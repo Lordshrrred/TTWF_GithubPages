@@ -30,7 +30,9 @@ SYSTEM_PROMPT = (
     "[Tow With The Flow](https://towwiththeflow.com) "
     "for guides on what to do when your car breaks down.' "
     "Never use em dashes. Return only valid Hugo markdown with frontmatter "
-    "including title, date, description under 155 chars, tags, slug."
+    "including title, date, description under 155 chars, tags, slug, canonical. "
+    "For canonical, use the matching primary Tow With The Flow URL in the form "
+    "'https://towwiththeflow.com/towing-cost-city-state/' when the topic is a city towing cost page."
 )
 
 BACKLINK_BLOCK = (
@@ -105,7 +107,7 @@ def generate_post(keyword: str) -> str:
         "- Direct, useful tone -- like a knowledgeable local\n"
         "- No em dashes\n"
         "- End with the required backlink block exactly as specified\n"
-        "- Include valid Hugo frontmatter: title, date (today), description (under 155 chars), tags, slug\n"
+        "- Include valid Hugo frontmatter: title, date (today), description (under 155 chars), tags, slug, canonical\n"
         "- Return only the markdown content, no extra commentary"
     )
 

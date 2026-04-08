@@ -4,6 +4,7 @@ date: "2026-02-09T09:44:00+00:00"
 description: "Low-speed vibrations in your vehicle typically stem from a few specific issues. Learn to identify the cause and determine if it's safe to continue driving."
 tags: ["car shaking", "vibration while driving", "wheel balance", "CV joint", "car breakdown"]
 slug: "car-shakes-while-driving-slow-speeds-advice"
+canonical: "https://towwiththeflow.com/car-shakes-while-driving-slow-speeds/"
 ---
 
 > **Quick Answer:** Low-speed shaking typically results from tire imbalance, damaged wheels, faulty CV joints, worn motor mounts, or brake problems. Vibration felt only in the steering wheel suggests front-end troubles, while whole-car shaking points to wheel, tire, or drivetrain issues. While some problems allow temporary driving, CV joint and brake concerns require immediate attention.

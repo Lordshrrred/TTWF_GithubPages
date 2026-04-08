@@ -4,6 +4,7 @@ date: "2026-01-24T09:34:00+00:00"
 description: "Broken axle while driving? Here's why you must stop immediately and what steps to take for your safety and vehicle protection."
 tags: ["broken axle", "car breakdown", "towing", "drivetrain"]
 slug: "can-i-drive-with-a-broken-axle-guide"
+canonical: "https://towwiththeflow.com/can-i-drive-with-a-broken-axle/"
 ---
 
 > **Critical Safety Warning:** Absolutely not. Operating a vehicle with axle damage poses extreme risks to you and other drivers. When an axle fails, power transmission stops working properly, steering becomes unpredictable, and the affected wheel could separate from your car. Stop driving immediately and arrange professional towing. This situation requires emergency roadside assistance, not attempting to reach a repair facility.

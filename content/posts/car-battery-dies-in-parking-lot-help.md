@@ -5,6 +5,7 @@ description: "Battery died while parked? Get the step-by-step solution: jump sta
 tags: ["car battery", "dead battery", "roadside assistance", "jump start", "towing"]
 slug: "car-battery-dies-in-parking-lot-help"
 draft: false
+canonical: "https://towwiththeflow.com/car-battery-dies-in-parking-lot/"
 ---
 
 > **Quick Solution:** When your battery dies in a parking lot, you have several immediate options: ask another driver for a jump start, use a portable jump starter, contact roadside assistance, or arrange for a tow truck. Parking lot breakdowns are actually among the easier automotive emergencies since you're in a safe location with easy access for help.
@@ -138,7 +139,7 @@ Budget for these typical expenses if professional help is needed:
 
 Roadside assistance coverage usually includes free jump starts. Battery replacement is often the most economical solution, with parts store installation typically adding $15-$30 to the battery cost.
 
-For detailed towing cost information, check our comprehensive guide on [per-mile towing rates](/posts/average-towing-cost-per-mile-usa/).
+For detailed towing cost information, check our comprehensive guide on [per-mile towing rates](https://towwiththeflow.com/average-towing-cost-per-mile-usa/).
 
 ---
 

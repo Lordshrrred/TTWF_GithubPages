@@ -4,6 +4,7 @@ date: "2026-01-27T10:48:00+00:00"
 description: "Most completely drained batteries can accept a jump start with proper technique. Learn the correct steps, timing, and safety measures for success."
 tags: ["jump start", "dead battery", "car wont start", "roadside assistance", "battery"]
 slug: "can-you-jump-start-a-completely-dead-battery-advice"
+canonical: "https://towwiththeflow.com/can-you-jump-start-a-completely-dead-battery/"
 ---
 
 > **Direct Answer:** A fully discharged battery can typically accept a jump start, though the process requires patience and proper technique. You must allow the donor vehicle to charge the dead battery for 5-10 minutes before attempting ignition. Batteries with internal shorts, physical damage, or severe sulfation from extended discharge periods may not respond to jumping and require replacement instead.

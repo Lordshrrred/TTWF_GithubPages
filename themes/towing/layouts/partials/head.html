@@ -1,11 +1,83 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="{{ .Params.robots | default "index,follow,max-image-preview:large" }}">
+<meta name="author" content="{{ .Site.Params.author }}">
+<meta name="theme-color" content="#0f172a">
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-<link rel="canonical" href="{{ .Permalink }}">
+<link rel="canonical" href="{{ with .Params.canonical }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}">
+{{ if .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ (.OutputFormats.Get "RSS").Permalink }}">{{ end }}
 <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-{{ if .IsPage }}<meta property="og:type" content="article">{{ end }}
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:url" content="{{ with .Params.canonical }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}">
+<meta property="og:site_name" content="{{ .Site.Params.siteName }}">
+<meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="twitter:url" content="{{ with .Params.canonical }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": {{ .Site.Params.siteName | jsonify | safeJS }},
+  "url": {{ .Site.Params.siteUrl | jsonify | safeJS }},
+  "description": {{ .Site.Params.description | jsonify | safeJS }},
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": {{ .Site.Params.brandParent | jsonify | safeJS }},
+    "url": {{ .Site.Params.brandParentUrl | jsonify | safeJS }}
+  }
+}
+</script>
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ .Site.Title | jsonify | safeJS }},
+  "url": {{ .Site.Params.siteUrl | jsonify | safeJS }},
+  "description": {{ .Site.Params.description | jsonify | safeJS }}
+}
+</script>
+{{ end }}
+{{ if .IsPage }}
+{{ if eq .Section "posts" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify | safeJS }},
+  "name": {{ .Title | jsonify | safeJS }},
+  "description": {{ if .Description }}{{ .Description | jsonify | safeJS }}{{ else }}{{ .Site.Params.description | jsonify | safeJS }}{{ end }},
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "author": {
+    "@type": "Organization",
+    "name": {{ .Site.Params.siteName | jsonify | safeJS }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ .Site.Params.siteName | jsonify | safeJS }},
+    "url": {{ .Site.Params.siteUrl | jsonify | safeJS }}
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ with .Params.canonical }}{{ . | jsonify | safeJS }}{{ else }}{{ .Permalink | jsonify | safeJS }}{{ end }}
+  }
+}
+</script>
+{{ else }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ .Title | jsonify | safeJS }},
+  "url": {{ with .Params.canonical }}{{ . | jsonify | safeJS }}{{ else }}{{ .Permalink | jsonify | safeJS }}{{ end }},
+  "description": {{ if .Description }}{{ .Description | jsonify | safeJS }}{{ else }}{{ .Site.Params.description | jsonify | safeJS }}{{ end }}
+}
+</script>
+{{ end }}
+{{ end }}
