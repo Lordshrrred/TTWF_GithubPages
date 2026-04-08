@@ -51,40 +51,62 @@ def slugify(text: str) -> str:
     return text.strip("-")
 
 
-def find_next_keyword() -> tuple[int, str] | None:
-    """
-    Find the first keyword in keywords.txt that is not marked # DONE.
-    Returns (line_index, keyword_text) or None if all are processed.
-    """
+def parse_keyword_line(raw: str) -> tuple[str, int | None]:
+    match = re.match(r"^\[(\d+)\]\s*(.+)$", raw.strip())
+    if match:
+        return match.group(2).strip(), int(match.group(1))
+    return raw.strip(), None
+
+
+def load_keywords() -> list[tuple[int, str, int | None, bool]]:
+    """Return (line_index, keyword_text, score, is_done) rows."""
     lines = KEYWORDS_FILE.read_text(encoding="utf-8").splitlines()
+    rows: list[tuple[int, str, int | None, bool]] = []
     for i, line in enumerate(lines):
         stripped = line.strip()
-        if stripped and not stripped.startswith("#") and "# DONE" not in line:
-            return i, stripped
-    return None
+        if not stripped or stripped.startswith("#"):
+            continue
+        is_done = "# DONE" in stripped
+        raw = stripped.replace("# DONE", "").strip()
+        keyword, score = parse_keyword_line(raw)
+        rows.append((i, keyword, score, is_done))
+    return rows
+
+
+def find_next_keyword() -> tuple[int, str, int | None] | None:
+    """Find the highest-priority unfinished keyword from keywords.txt."""
+    pending = [(i, kw, score) for i, kw, score, is_done in load_keywords() if not is_done]
+    if not pending:
+        return None
+    scored = sorted((row for row in pending if row[2] is not None), key=lambda row: row[2], reverse=True)
+    unscored = [row for row in pending if row[2] is None]
+    ordered = scored + unscored
+    return ordered[0]
 
 
 def mark_keyword_done(line_index: int, keyword: str) -> None:
     """Mark a keyword as done and append variation keywords."""
     lines = KEYWORDS_FILE.read_text(encoding="utf-8").splitlines()
-    lines[line_index] = f"{keyword} # DONE"
+    raw = lines[line_index].strip()
+    if "# DONE" not in raw:
+        lines[line_index] = f"{raw} # DONE"
 
     # Append variation keywords if they don't already exist
-    existing = set(l.split("# DONE")[0].strip() for l in lines)
+    existing = set(parse_keyword_line(l.split("# DONE")[0].strip())[0].lower() for l in lines if l.strip())
     variations = []
 
-    # Extract city name from keyword for variations
     city_match = re.search(r"towing cost in (.+)", keyword, re.IGNORECASE)
     if city_match:
         city = city_match.group(1).strip()
         candidates = [
-            f"average towing cost {city}",
-            f"cheap towing {city}",
-            f"emergency towing cost {city} at night",
+            f"[5] emergency towing cost {city} at night",
+            f"[5] towing cost {city} highway breakdown",
         ]
-        for v in candidates:
-            if v not in existing:
-                variations.append(v)
+        for candidate in candidates:
+            bare, _score = parse_keyword_line(candidate)
+            if bare.lower() not in existing:
+                variations.append(candidate)
+                existing.add(bare.lower())
 
     lines.extend(variations)
     KEYWORDS_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -154,8 +176,11 @@ def main():
         print("All keywords have been processed. Nothing to do.")
         sys.exit(0)
 
-    line_index, keyword = result
-    print(f"Processing keyword: {keyword}")
+    line_index, keyword, score = result
+    if score is None:
+        print(f"Processing keyword: {keyword}")
+    else:
+        print(f"Processing keyword [{score}]: {keyword}")
 
     content = generate_post(keyword)
     slug = extract_slug_from_frontmatter(content, keyword)
