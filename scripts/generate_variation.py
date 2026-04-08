@@ -55,7 +55,8 @@ def build_system_prompt(source_slug: str, source_url: str) -> str:
         "Frontmatter fields: title (slightly varied from original), "
         "date (today's date), description (under 155 chars), "
         "tags (same or similar to original), "
-        "slug (I will provide the target slug — use it exactly as given)."
+        "slug (I will provide the target slug — use it exactly as given), "
+        f'canonical (use exactly "{source_url}").'
     )
 
 
@@ -122,6 +123,20 @@ def generate_variation(
         f'\\g<1>"{target_slug}"',
         content, count=1, flags=re.MULTILINE,
     )
+
+    # Enforce canonical back to the source post.
+    if re.search(r'^canonical:\s*', content, re.MULTILINE):
+        content = re.sub(
+            r'^(canonical:\s*)["\']?[^"\'\n]+["\']?\s*$',
+            f'\\g<1>"{source_url}"',
+            content, count=1, flags=re.MULTILINE,
+        )
+    else:
+        content = re.sub(
+            r'^(slug:\s*["\']?[^"\'\n]+["\']?\s*$)',
+            r'\1' + f'\ncanonical: "{source_url}"',
+            content, count=1, flags=re.MULTILINE,
+        )
 
     return content
 
