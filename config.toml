@@ -4,6 +4,9 @@ title = "Towing Costs By City"
 theme = "towing"
 enableRobotsTXT = true
 
+[permalinks]
+  posts = "/:slug/"
+
 [params]
   description = "Find out what towing actually costs near you."
   tagline = "Find out what towing actually costs near you."
