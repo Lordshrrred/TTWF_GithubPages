@@ -1,6 +1,6 @@
 ---
 title: "Find Cheapest Tow Truck Service Near You on Sunday in Winter: Quick Guide"
-date: 2026-05-03
+date: 2026-05-04
 description: "Need affordable towing on a winter Sunday? Here's how to find the cheapest tow truck service when roads are icy and options are limited."
 tags: ["cheap towing", "sunday towing", "winter breakdown", "emergency roadside", "tow truck rates"]
 slug: "cheapest-tow-truck-service-near-me-sunday-winter-guide"
