@@ -1,6 +1,6 @@
 ---
 title: "Rental Car Broke Down: Who Pays for Towing at Enterprise, Hertz & Other Companies: Explained"
-date: 2026-05-04
+date: 2026-05-05
 description: "Rental car broke down? Learn who pays towing costs at major rental companies and what steps to take when your rental needs roadside assistance."
 tags: ["rental car breakdown", "towing costs", "enterprise hertz", "roadside assistance", "rental car insurance"]
 slug: "rental-car-broke-down-who-pays-towing-enterprise-hertz-tips"
