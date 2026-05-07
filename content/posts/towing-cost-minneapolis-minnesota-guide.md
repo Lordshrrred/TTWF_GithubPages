@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Minneapolis Minnesota: What You'll Pay and What to Do: Explained"
-date: 2026-05-06
+date: 2026-05-07
 description: "Minneapolis towing costs $85-120 hookup plus $3-5/mile. Complete breakdown guide for I-35W, I-94, and city streets with local tips."
 tags: ["Minneapolis", "Minnesota", "towing cost", "roadside emergency"]
 slug: "towing-cost-minneapolis-minnesota-guide"
