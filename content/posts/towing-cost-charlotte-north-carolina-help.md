@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Charlotte North Carolina: What You'll Pay and What to Do: Explained"
-date: 2026-05-11
+date: 2026-05-12
 description: "Charlotte towing costs range $85-150 base plus $3-5/mile. Get help on I-77, I-85, I-485 with our breakdown guide and local tips."
 tags: ["charlotte", "north carolina", "towing cost", "roadside emergency"]
 slug: "towing-cost-charlotte-north-carolina-help"
