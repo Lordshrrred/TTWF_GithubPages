@@ -1,6 +1,6 @@
 ---
 title: "Towing Cost in Indianapolis Indiana: What You'll Pay for Emergency Roadside Help: Roadside Tips"
-date: 2026-05-15
+date: 2026-05-16
 description: "Indianapolis towing costs $85-120 base fee plus $3-5 per mile. Get breakdown help on I-465, I-70, and city streets with local tips and pricing."
 tags: ["indianapolis", "indiana", "towing cost", "roadside emergency"]
 slug: "towing-cost-indianapolis-indiana-tips"
