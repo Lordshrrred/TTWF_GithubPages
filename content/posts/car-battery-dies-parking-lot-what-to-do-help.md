@@ -1,6 +1,6 @@
 ---
 title: "Car Battery Dies in Parking Lot: What to Do Now: What To Do Next"
-date: 2026-05-25
+date: 2026-05-26
 description: "Dead battery in a parking lot? Get step-by-step instructions for jump starting, calling for help, and getting back on the road safely."
 tags: ["dead battery", "jump start", "parking lot", "roadside emergency", "car trouble"]
 slug: "car-battery-dies-parking-lot-what-to-do-help"
