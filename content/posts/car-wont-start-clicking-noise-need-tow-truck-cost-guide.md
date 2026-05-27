@@ -1,6 +1,6 @@
 ---
 title: "Car Won't Start Clicking Noise Need Tow Truck Cost: What You'll Pay Right Now: What To Do Next"
-date: 2026-05-26
+date: 2026-05-27
 description: "Car making clicking noise and won't start? Learn what's wrong, when you need a tow truck, and exact costs to expect for roadside help."
 tags: ["car won't start", "clicking noise", "tow truck cost", "dead battery", "roadside assistance"]
 slug: "car-wont-start-clicking-noise-need-tow-truck-cost-guide"
